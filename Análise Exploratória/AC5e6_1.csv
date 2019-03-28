@@ -1,0 +1,16 @@
+﻿Descrição da base;Os dados do Carcinoma Hepatocelular (câncer de fígado) foram coletados em um hospital universitário em Portugal. Contém dados clínicos reais de pacientes com diagnóstico de HCC.;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+Variável;Descrição;;;;;;;;;
+Gender;"Sexo (1=Masculino;0=Feminino)";;;;;;;;;
+Cirrhosis;"Cirrose (1=Sim;0=Não)";;;;;;;;;
+Diabetes;"Diabete (1=Sim;0=Não)";;;;;;;;;
+Obesity;"Obesidade (1=Sim;0=Não)";;;;;;;;;
+HIV;"HIV positivo (1=Sim;0=Não)";;;;;;;;;
+Age;Idade;;;;;;;;;
+GramsAlcohol;Gramas de álcool consumidas por dia;;;;;;;;;
+PacksCigarets;Pacotes de cigarros consumidos por ano;;;;;;;;;
+Hemoglobin;Hemoglobina  (Normal: 12 a 18g/dL);;;;;;;;;
+Bilirubin;Bilirrubina (Normal: 0.3 a 1.2 mg/dL);;;;;;;;;
+Proteins;Proteína (Normal: 6 a 8  g/dL);;;;;;;;;
+Creatinine;Creatinina (Normal: 0.5 a 1.2 mg/dL);;;;;;;;;
